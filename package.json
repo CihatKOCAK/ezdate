@@ -1,5 +1,5 @@
 {
-  "name": "ezdate",
+  "name": "ezdaynaming",
   "version": "1.0.0",
   "description": "Returns the month name of the entered date and the days of the month according to the location",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ezdate.git"
+    "url": "git+ezdaynaming.git"
   },
   "keywords": [
     "date",
@@ -22,9 +22,9 @@
   "author": "Cihat KOÇAK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CihatKOCAK/ezdate/issues"
+    "url": "https://github.com/CihatKOCAK/ezdaynaming/issues"
   },
-  "homepage": "https://github.com/CihatKOCAK/ezdate#readme",
+  "homepage": "https://github.com/CihatKOCAK/ezdaynaming#readme",
   "dependencies": {
   }
 }
