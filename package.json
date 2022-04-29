@@ -12,7 +12,7 @@
     "url": "git+ezdaynaming.git"
   },
   "keywords": [
-    "date",
+    "get-days-name-YYYY-MM",
     "day",
     "month",
     "year",
@@ -20,7 +20,10 @@
     "location",
     "js"
   ],
-  "author": "Cihat KOÇAK",
+  "author": {
+    "name": "Cihat KOÇAK",
+    "email": "pcihatkocakk@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CihatKOCAK/ezdaynaming/issues"
