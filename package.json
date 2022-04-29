@@ -4,7 +4,8 @@
   "description": "Returns the month name of the entered date and the days of the month according to the location",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,5 @@
     "url": "https://github.com/CihatKOCAK/ezdaynaming/issues"
   },
   "homepage": "https://github.com/CihatKOCAK/ezdaynaming#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
